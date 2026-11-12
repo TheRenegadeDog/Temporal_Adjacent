@@ -1,0 +1,13 @@
+{
+  "itemGroup.temporaladjacent": "Example Mod Tab",
+  "block.temporaladjacent.example_block": "Example Block",
+  "item.temporaladjacent.example_item": "Example Item",
+
+  "temporaladjacent.configuration.title": "Temporal Adjacent  Configs",
+  "temporaladjacent.configuration.section.temporaladjacent.common.toml": "Temporal Adjacent  Configs",
+  "temporaladjacent.configuration.section.temporaladjacent.common.toml.title": "Temporal Adjacent  Configs",
+  "temporaladjacent.configuration.items": "Item List",
+  "temporaladjacent.configuration.logDirtBlock": "Log Dirt Block",
+  "temporaladjacent.configuration.magicNumberIntroduction": "Magic Number Text",
+  "temporaladjacent.configuration.magicNumber": "Magic Number"
+}
