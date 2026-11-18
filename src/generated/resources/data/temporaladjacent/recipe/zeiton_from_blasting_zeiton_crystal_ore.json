@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "cookingtime": 100,
+  "experience": 0.3,
+  "group": "zeiton",
+  "ingredient": "temporaladjacent:zeiton_crystal_ore",
+  "result": {
+    "id": "temporaladjacent:zeiton"
+  }
+}

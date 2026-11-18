@@ -1,0 +1,8 @@
+{
+  "zeiton_clock_use": {
+    "sounds": [
+      "temporaladjacent:zeiton_clock/zeiton_clock"
+    ],
+    "subtitle": "sounds.temporal_adjacent.zeiton_clock"
+  }
+}

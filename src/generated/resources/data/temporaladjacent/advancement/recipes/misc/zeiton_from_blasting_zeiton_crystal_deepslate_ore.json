@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "temporaladjacent:zeiton_from_blasting_zeiton_crystal_deepslate_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_zeiton_crystal_deepslate_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": "temporaladjacent:zeiton_crystal_deepslate_ore"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_zeiton_crystal_deepslate_ore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "temporaladjacent:zeiton_from_blasting_zeiton_crystal_deepslate_ore"
+    ]
+  }
+}

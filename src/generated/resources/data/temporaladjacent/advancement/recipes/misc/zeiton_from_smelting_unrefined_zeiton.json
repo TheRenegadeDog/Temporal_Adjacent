@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "temporaladjacent:zeiton_from_smelting_unrefined_zeiton"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_unrefined_zeiton": {
+      "conditions": {
+        "items": [
+          {
+            "items": "temporaladjacent:unrefined_zeiton"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_unrefined_zeiton"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "temporaladjacent:zeiton_from_smelting_unrefined_zeiton"
+    ]
+  }
+}

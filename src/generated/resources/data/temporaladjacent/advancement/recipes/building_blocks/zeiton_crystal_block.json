@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "temporaladjacent:zeiton_crystal_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_zeiton": {
+      "conditions": {
+        "items": [
+          {
+            "items": "temporaladjacent:zeiton"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_zeiton"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "temporaladjacent:zeiton_crystal_block"
+    ]
+  }
+}

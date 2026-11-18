@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "temporaladjacent:block/zeiton_crystal_block"
+  }
+}

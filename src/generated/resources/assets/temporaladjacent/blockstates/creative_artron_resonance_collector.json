@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "clicked=false": {
+      "model": "temporaladjacent:block/creative_artron_resonance_collector"
+    },
+    "clicked=true": {
+      "model": "temporaladjacent:block/creative_artron_resonance_collectoron"
+    }
+  }
+}

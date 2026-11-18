@@ -1,13 +1,22 @@
 {
-  "itemGroup.temporaladjacent": "Example Mod Tab",
-  "block.temporaladjacent.example_block": "Example Block",
-  "item.temporaladjacent.example_item": "Example Item",
+    "item.temporaladjacent.unrefined_zeiton": "Unrefined Zeiton 7",
+    "item.temporaladjacent.zeiton": "Zeiton 7",
+    "item.temporaladjacent.zeiton_clock": "Zeiton Clock",
 
-  "temporaladjacent.configuration.title": "Temporal Adjacent  Configs",
-  "temporaladjacent.configuration.section.temporaladjacent.common.toml": "Temporal Adjacent  Configs",
-  "temporaladjacent.configuration.section.temporaladjacent.common.toml.title": "Temporal Adjacent  Configs",
-  "temporaladjacent.configuration.items": "Item List",
-  "temporaladjacent.configuration.logDirtBlock": "Log Dirt Block",
-  "temporaladjacent.configuration.magicNumberIntroduction": "Magic Number Text",
-  "temporaladjacent.configuration.magicNumber": "Magic Number"
+    "item.temporaladjacent.frequency_scanner": "Coherancy Scanner",
+
+    "block.temporaladjacent.zeiton_crystal_block": "Block of Refined Zeiton 7",
+    "block.temporaladjacent.zeiton_crystal_ore": "Block of Zeiton 7 Ore",
+    "block.temporaladjacent.zeiton_crystal_deepslate_ore": "Block of Deepslate Zeiton 7 Ore",
+
+    "block.temporaladjacent.artron_resonance_collector": "Artron Resonance Collector",
+    "block.temporaladjacent.creative_artron_resonance_collector": "Creative  Resonance Collector",
+
+    "creativetab.temporaladjacent.space_ores_tabs": "Space Ores",
+    "creativetab.temporaladjacent.space_blocks_tabs": "Space Blocks",
+    "creativetab.temporaladjacent.space_items_tabs": "Space Items",
+    "creativetab.temporaladjacent.tardis": "Tardis",
+
+    "sounds.temporal_adjacent.zeiton_clock": "Used Zeiton Clock"
+
 }

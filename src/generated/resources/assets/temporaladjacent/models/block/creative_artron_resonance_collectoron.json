@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "temporaladjacent:block/collector/collector_sides_pipes",
+    "down": "temporaladjacent:block/collector/collector_bottom",
+    "north": "temporaladjacent:block/collector/collector_full",
+    "south": "temporaladjacent:block/collector/collector_sides_pipes",
+    "east": "temporaladjacent:block/collector/collector_sides_pipes",
+    "west": "temporaladjacent:block/collector/collector_sides_pipes"
+  }
+}
